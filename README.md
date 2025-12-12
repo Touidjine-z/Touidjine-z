@@ -27,62 +27,8 @@
 * 👋 Hi, I'm **TOUIDJINE Zaki**
 * 📊 **Data Analyst** with strong **AI / Computer Vision** background
 * 🤖 I build **AI-powered apps**, **data pipelines**, and **YOLO-based vision systems**
-* 📈 Delivered automation that improved **email CTR by +20%**
-* 🌍 Languages: **FR (C2)** · **EN (C2)**
 
 ---
-
-## 💼 Expériences professionnelles
-
-### 🟢 Alternance – Data Scientist (16 mois)
-
-**TARTERET PHILIPPE, Estissac, France** · Depuis Mai 2025
-
-* Vision par ordinateur : développement d’un modèle **YOLO** pour la détection automatique de planches et optimisation des choix de découpe
-* Data Science & Machine Learning : analyse, préparation et exploitation des données pour la classification intelligente et réduction des coûts de production
-* Optimisation du modèle : suivi des performances, ajustements continus et amélioration de la précision et de la robustesse
-* Système embarqué : intégration sur **Raspberry Pi** d’un module de surveillance en temps réel avec alerte automatique
-
-### 🟢 Stage – Développeur Mobile Android (4 mois)
-
-**Monstock, Reims, France** · Avril – Août 2024
-
-* Maintenance et optimisation des applications Android
-* Analyse des comportements utilisateurs via **Firebase Analytics**
-* Migration du code **Java → Kotlin** avec bonnes pratiques
-* Rédaction de tests unitaires et UI
-* Développement de nouvelles fonctionnalités (**Android Jetpack**)
-* Amélioration UI/UX selon le **Material Design**
-
-### 🟢 Stage – Développeur Web Full Stack (3 mois)
-
-**StartupTech, Paris, France** · Mai – Juillet 2023
-
-* Création d’**API RESTful** avec Express.js et MongoDB
-* Mise en place de l’authentification avec **JWT**
-* Tests unitaires et optimisation des performances
-* Suivi de métriques de performance avec outils de logs
-
----
-
-## 📂 Projets académiques
-
-### 💻 Développement d’applications
-
-* Gestion d’une médiathèque (**Java, Oracle SQL**)
-* Application mobile e-commerce (**Java, Kotlin, Firebase**)
-* Analyse de texte et nuage de mots (**HTML, CSS, JavaScript, Python**)
-* Traitement d’image avec filtres (**Scilab, OpenCV, Python**)
-
-### 🤖 Robotique
-
-* Détection d’objets (**Bluetooth, Kotlin, PIC18F, C++**)
-* Simulation **UR3** et **Husky robotique** (**Gazebo, ROS, RViz, Python**)
-
-### 📊 Analyse de données & IA
-
-* Prédiction **COVID-19** (**Python, Pandas, NumPy, Matplotlib**)
-* Détection de fraude bancaire avec **IA explicable (XAI)**
 
 ---
 
@@ -171,23 +117,60 @@
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
+
+
+## 💼 Expériences professionnelles
+
+### 🟢 Alternance – Data Scientist (16 mois)
+
+**TARTERET PHILIPPE, Estissac, France** · Depuis Mai 2025
+
+* Vision par ordinateur : développement d’un modèle **YOLO** pour la détection automatique de planches et optimisation des choix de découpe
+* Data Science & Machine Learning : analyse, préparation et exploitation des données pour la classification intelligente et réduction des coûts de production
+* Optimisation du modèle : suivi des performances, ajustements continus et amélioration de la précision et de la robustesse
+* Système embarqué : intégration sur **Raspberry Pi** d’un module de surveillance en temps réel avec alerte automatique
+
+### 🟢 Stage – Développeur Mobile Android (4 mois)
+
+**Monstock, Reims, France** · Avril – Août 2024
+
+* Maintenance et optimisation des applications Android
+* Analyse des comportements utilisateurs via **Firebase Analytics**
+* Migration du code **Java → Kotlin** avec bonnes pratiques
+* Rédaction de tests unitaires et UI
+* Développement de nouvelles fonctionnalités (**Android Jetpack**)
+* Amélioration UI/UX selon le **Material Design**
+
+### 🟢 Stage – Développeur Web Full Stack (3 mois)
+
+**StartupTech, Paris, France** · Mai – Juillet 2023
+
+* Création d’**API RESTful** avec Express.js et MongoDB
+* Mise en place de l’authentification avec **JWT**
+* Tests unitaires et optimisation des performances
+* Suivi de métriques de performance avec outils de logs
+
 ---
 
-## 📂 Projets réalisés
+## 📂 Projets académiques
 
-### 📊 Dashboarding & Data Analysis
+### 💻 Développement d’applications
 
-* Marketing analytics dashboards (Power BI & Tableau)
-* Data cleaning, aggregation & KPIs reporting
-* Customer behavior analysis and email CTR optimization
+* Gestion d’une médiathèque (**Java, Oracle SQL**)
+* Application mobile e-commerce (**Java, Kotlin, Firebase**)
+* Analyse de texte et nuage de mots (**HTML, CSS, JavaScript, Python**)
+* Traitement d’image avec filtres (**Scilab, OpenCV, Python**)
 
-### 🤖 Computer Vision / YOLO
+### 🤖 Robotique
 
-* Object detection with YOLO (video & image datasets)
-* Automated image/video processing with OpenCV
-* End-to-end pipeline from training to deployment
+* Détection d’objets (**Bluetooth, Kotlin, PIC18F, C++**)
+* Simulation **UR3** et **Husky robotique** (**Gazebo, ROS, RViz, Python**)
 
----
+### 📊 Analyse de données & IA
+
+* Prédiction **COVID-19** (**Python, Pandas, NumPy, Matplotlib**)
+* Détection de fraude bancaire avec **IA explicable (XAI)**
+
 
 <p align="center">
 <img src="https://visitcount.itsvg.in/api?id=ZakiTouidjine&icon=0&color=11" />
