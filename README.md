@@ -173,10 +173,6 @@
 ---
 
 <p align="center">
-<img src="https://visitcount.itsvg.in/api?id=ZakiTouidjine&icon=0&color=11" />
-</p>
-
-<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </p>
 
