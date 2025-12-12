@@ -23,12 +23,11 @@
 ---
 
 ## ⚡ Quick snapshot
-
-* 👋 Hi, I'm **TOUIDJINE Zaki**
-* 📊 **Data Analyst** with strong **AI / Computer Vision** background
-* 🤖 I build **AI-powered apps**, **data pipelines**, and **YOLO-based vision systems**
-* 📈 Delivered automation that improved **email CTR by +20%**
-* 🌍 Languages: **FR (C2)** · **EN (C2)**
+- 👋 Hi, I'm **TOUIDJINE Zaki**
+- 📊 **Data Analyst** with strong **AI / Computer Vision** background
+- 🤖 I build **AI-powered apps**, **data pipelines**, and **YOLO-based vision systems**
+- 📈 Delivered automation that improved **email CTR by +20%**
+- 🌍 Languages: **FR (C2)** · **EN (C2)**
 
 ---
 
@@ -60,7 +59,6 @@
 ## 🧰 Toolbox (stack I use)
 
 ### 💻 Languages
-
 <p>
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -76,7 +74,6 @@
 </p>
 
 ### 📊 Data Analysis & Visualization
-
 <p>
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
@@ -87,7 +84,6 @@
 </p>
 
 ### 🤖 AI / Computer Vision
-
 <p>
 <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
@@ -97,7 +93,6 @@
 </p>
 
 ### 🗄️ Databases & Cloud
-
 <p>
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -108,7 +103,6 @@
 </p>
 
 ### 🛠️ Dev Tools
-
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -122,17 +116,17 @@
 ## 📂 Projets réalisés
 
 ### 📊 Dashboarding & Data Analysis
-
 * Marketing analytics dashboards (Power BI & Tableau)
 * Data cleaning, aggregation & KPIs reporting
-* Customer behavior analysis and email CTR optimization
-  ![Dashboard GIF](https://giphy.com/gifs/ABCNT-data-analysis-abcnt-QzF0Bp09v4abTr7928)
+* Customer behavior analysis and email CTR optimization  
+![Dashboard GIF](https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif)
 
 ### 🤖 Computer Vision / YOLO
-
 * Object detection with YOLO (video & image datasets)
 * Automated image/video processing with OpenCV
-* End-to-end pipeline from training to deployment
+* End-to-end pipeline from training to deployment  
+![YOLO GIF](https://media.giphy.com/media/l0HlK9a8vZq6NSGZ2/giphy.gif)
+
 ---
 
 <p align="center">
@@ -142,4 +136,3 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </p>
-
