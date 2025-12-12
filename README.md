@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=TOUIDJINE%20Zaki&fontSize=42&fontColor=ffffff&animation=twinkling" />
 </p>
@@ -30,9 +31,7 @@
 
 ---
 
----
-
-## 🧠 What I like working on
+## 🧠 Areas of Interest
 
 <table>
 <tr>
@@ -40,8 +39,8 @@
 <h3>🧠 Data Analysis</h3>
 <ul>
 <li>Dashboards & insights (Tableau, Power BI)</li>
-<li>Exploration, cleaning, feature engineering</li>
-<li>Statistical modelling & data-driven decisions</li>
+<li>Data exploration, cleaning, and feature engineering</li>
+<li>Statistical modeling & data-driven decision making</li>
 </ul>
 </td>
 <td width="50%">
@@ -57,7 +56,7 @@
 
 ---
 
-## 🧰 Toolbox (stack I use)
+## 🧰 Toolbox (Stack I use)
 
 ### 💻 Languages
 
@@ -117,60 +116,61 @@
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
+---
 
+## 💼 Professional Experience
 
-## 💼 Expériences professionnelles
+### 🟢 Data Scientist Internship (16 months)
 
-### 🟢 Alternance – Data Scientist (16 mois)
+**TARTERET PHILIPPE, Estissac, France** · Since May 2025
 
-**TARTERET PHILIPPE, Estissac, France** · Depuis Mai 2025
+* Computer Vision: developed a **YOLO model** for automatic plank detection and optimization of cutting choices
+* Data Science & Machine Learning: data analysis, preparation, and exploitation for intelligent classification and cost reduction
+* Model optimization: performance monitoring, continuous adjustments, improving accuracy and robustness
+* Embedded system: integration on **Raspberry Pi** of a real-time monitoring module with automatic alert
 
-* Vision par ordinateur : développement d’un modèle **YOLO** pour la détection automatique de planches et optimisation des choix de découpe
-* Data Science & Machine Learning : analyse, préparation et exploitation des données pour la classification intelligente et réduction des coûts de production
-* Optimisation du modèle : suivi des performances, ajustements continus et amélioration de la précision et de la robustesse
-* Système embarqué : intégration sur **Raspberry Pi** d’un module de surveillance en temps réel avec alerte automatique
+### 🟢 Android Mobile Developer Internship (4 months)
 
-### 🟢 Stage – Développeur Mobile Android (4 mois)
+**Monstock, Reims, France** · April – August 2024
 
-**Monstock, Reims, France** · Avril – Août 2024
+* Maintenance and optimization of Android applications
+* User behavior analysis using **Firebase Analytics**
+* Code migration from **Java → Kotlin** following best practices
+* Unit and UI testing
+* Development of new features (**Android Jetpack**)
+* UI/UX improvements following **Material Design principles**
 
-* Maintenance et optimisation des applications Android
-* Analyse des comportements utilisateurs via **Firebase Analytics**
-* Migration du code **Java → Kotlin** avec bonnes pratiques
-* Rédaction de tests unitaires et UI
-* Développement de nouvelles fonctionnalités (**Android Jetpack**)
-* Amélioration UI/UX selon le **Material Design**
+### 🟢 Full Stack Web Developer Internship (3 months)
 
-### 🟢 Stage – Développeur Web Full Stack (3 mois)
+**StartupTech, Paris, France** · May – July 2023
 
-**StartupTech, Paris, France** · Mai – Juillet 2023
-
-* Création d’**API RESTful** avec Express.js et MongoDB
-* Mise en place de l’authentification avec **JWT**
-* Tests unitaires et optimisation des performances
-* Suivi de métriques de performance avec outils de logs
+* Built **RESTful APIs** with Express.js and MongoDB
+* Implemented authentication with **JWT**
+* Unit testing and performance optimization
+* Performance monitoring using logging tools
 
 ---
 
-## 📂 Projets académiques
+## 📂 Academic Projects
 
-### 💻 Développement d’applications
+### 💻 Application Development
 
-* Gestion d’une médiathèque (**Java, Oracle SQL**)
-* Application mobile e-commerce (**Java, Kotlin, Firebase**)
-* Analyse de texte et nuage de mots (**HTML, CSS, JavaScript, Python**)
-* Traitement d’image avec filtres (**Scilab, OpenCV, Python**)
+* Library management system (**Java, Oracle SQL**)
+* E-commerce mobile app (**Java, Kotlin, Firebase**)
+* Text analysis & word cloud (**HTML, CSS, JavaScript, Python**)
+* Image processing with filters (**Scilab, OpenCV, Python**)
 
-### 🤖 Robotique
+### 🤖 Robotics
 
-* Détection d’objets (**Bluetooth, Kotlin, PIC18F, C++**)
-* Simulation **UR3** et **Husky robotique** (**Gazebo, ROS, RViz, Python**)
+* Object detection (**Bluetooth, Kotlin, PIC18F, C++**)
+* **UR3** and **Husky** robot simulation (**Gazebo, ROS, RViz, Python**)
 
-### 📊 Analyse de données & IA
+### 📊 Data Analysis & AI
 
-* Prédiction **COVID-19** (**Python, Pandas, NumPy, Matplotlib**)
-* Détection de fraude bancaire avec **IA explicable (XAI)**
+* COVID-19 prediction (**Python, Pandas, NumPy, Matplotlib**)
+* Bank fraud detection with **Explainable AI (XAI)**
 
+---
 
 <p align="center">
 <img src="https://visitcount.itsvg.in/api?id=ZakiTouidjine&icon=0&color=11" />
@@ -181,3 +181,5 @@
 </p>
 
 ---
+
+
