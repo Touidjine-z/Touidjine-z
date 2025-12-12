@@ -27,6 +27,9 @@
 * 👋 Hi, I'm **TOUIDJINE Zaki**
 * 📊 **Data Analyst** with strong **AI / Computer Vision** background
 * 🤖 I build **AI-powered apps**, **data pipelines**, and **YOLO-based vision systems**
+* 📈 Delivered automation that improved **email CTR by +20%**
+* 🌍 Languages: **FR (C2)** · **EN (C2)**
+
 ---
 
 ## 🧠 What I like working on
@@ -123,15 +126,13 @@
 * Marketing analytics dashboards (Power BI & Tableau)
 * Data cleaning, aggregation & KPIs reporting
 * Customer behavior analysis and email CTR optimization
-  ![Dashboard GIF](https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif)
+  ![Dashboard GIF](https://giphy.com/gifs/ABCNT-data-analysis-abcnt-QzF0Bp09v4abTr7928)
 
 ### 🤖 Computer Vision / YOLO
 
 * Object detection with YOLO (video & image datasets)
 * Automated image/video processing with OpenCV
 * End-to-end pipeline from training to deployment
-  ![YOLO GIF](https://media.giphy.com/media/l0HlK9a8vZq6NSGZ2/giphy.gif)
-
 ---
 
 <p align="center">
