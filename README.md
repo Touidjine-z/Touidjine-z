@@ -4,31 +4,21 @@ Voici une **version optimisée pour une landing page GitHub** (README.md), clair
 
 # 👋 Hi, I'm **TOUIDJINE Zaki**
 
-### 🚀 AI Engineer & Data Analyst (AI-focused) — Paris
+### 🚀 AI Engineer & Data Analyst 
 
 I build practical, reliable AI systems — from data pipelines to model deployment — with a strong focus on automation, robustness, and real-world impact.
 
-📈 Built ML automation that boosted email CTR by **+20%**
 🤖 Deploying AI models into real applications
 🔁 Designing clean, scalable data pipelines
 ⚡ Obsessed with reliability, monitoring & reproducibility
 
----
 
 ## 🔥 What I Work On
 
 ### **🤖 AI Engineering**
 
-* Model integration into production (APIs, microservices)
 * Monitoring, evaluation & continuous improvement
-* Automation that reduces manual work & errors
-
-### **🔁 Data Engineering / Pipelines**
-
-* Orchestration (Airflow) & workflow automation
-* Warehousing & analytics (Snowflake, BigQuery)
-* ETL/ELT patterns with clean, reusable components
-* CI/CD for ML & data workflows
+* Automation that reduces manual work & error
 
 ---
 
@@ -66,8 +56,7 @@ Classification · Regression · Clustering · Dimensionality Reduction · Anomal
 ## 📫 Contact
 
 **Email:** [touidjine.zaki@outlook.fr](mailto:touidjine.zaki@outlook.fr)
-**LinkedIn:** *ajoute ton lien ici*
-**Portfolio:** *optionnel*
+[![LinkedIn] *ajoute ton lien ici*]
 
 ---
 
