@@ -5,8 +5,7 @@
 
 <p align="center">
   <b>AI Engineer / Data Analyst (AI-focused)</b><br/>
-  Paris · MSc AI Engineering<br/>
-  <i>AI apps · ETL/data pipelines · YOLO / Data Visualization</i>
+  <i>AI apps · YOLO / Data Visualization</i>
 </p>
 
 <p align="center">
