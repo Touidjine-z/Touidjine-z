@@ -1,67 +1,144 @@
-Voici une **version optimisée pour une landing page GitHub** (README.md), claire, moderne et visuelle :
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=TOUIDJINE%20Zaki&fontSize=42&fontColor=ffffff&animation=twinkling" />
+</p>
+
+<p align="center">
+  <b>AI Engineer / Data Analyst (AI-focused)</b><br/>
+  Paris · MSc AI Engineering<br/>
+  <i>AI apps · ETL/data pipelines · YOLO / Data Visualization</i>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/touidjine-z-057519269">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:touidjinezaki@outlook.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Touidjine-z">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-# 👋 Hi, I'm **TOUIDJINE Zaki**
+## ⚡ Quick snapshot
 
-### 🚀 AI Engineer & Data Analyst 
+* 👋 Hi, I'm **TOUIDJINE Zaki**
+* 📊 **Data Analyst** with strong **AI / Computer Vision** background
+* 🤖 I build **AI-powered apps**, **data pipelines**, and **YOLO-based vision systems**
+---
 
-I build practical, reliable AI systems — from data pipelines to model deployment — with a strong focus on automation, robustness, and real-world impact.
+## 🧠 What I like working on
 
-🤖 Deploying AI models into real applications
-🔁 Designing clean, scalable data pipelines
-⚡ Obsessed with reliability, monitoring & reproducibility
-
-
-## 🔥 What I Work On
-
-### **🤖 AI Engineering**
-
-* Monitoring, evaluation & continuous improvement
-* Automation that reduces manual work & error
+<table>
+<tr>
+<td width="50%">
+<h3>🧠 Data Analysis</h3>
+<ul>
+<li>Dashboards & insights (Tableau, Power BI)</li>
+<li>Exploration, cleaning, feature engineering</li>
+<li>Statistical modelling & data-driven decisions</li>
+</ul>
+</td>
+<td width="50%">
+<h3>🤖 Computer Vision</h3>
+<ul>
+<li>YOLO object detection (training + inference)</li>
+<li>OpenCV image/video processing & automation</li>
+<li>Real-time analytics & visualization</li>
+</ul>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧰 **Tech Stack**
+## 🧰 Toolbox (stack I use)
 
-### **Languages**
+### 💻 Languages
 
-`Python` · `SQL` · `C/C++` · `Java` · `Kotlin` · `JavaScript` · `HTML/CSS` · `R` · `Bash`
+<p>
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</p>
 
-### **Machine Learning / Data Science**
+### 📊 Data Analysis & Visualization
 
-`Pandas` · `NumPy` · `Scikit-learn` · `TensorFlow` · `Keras` · `PyTorch`
-`YOLO` · `OpenCV` · `XGBoost` · `LightGBM` · `CatBoost`
-`Statsmodels` · NLP (`NLTK`, `spaCy`)
-Classification · Regression · Clustering · Dimensionality Reduction · Anomaly Detection
+<p>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-0C55A5?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-4C8CB5?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
 
-### **Databases & Cloud**
+### 🤖 AI / Computer Vision
 
-`PostgreSQL` · `MongoDB` · `SQLite` · `Firebase`
-`Snowflake` · `AWS` · `GCP` · `Azure` · `BigQuery` · `Redis`
+<p>
+<img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</p>
 
-### **Visualization / BI**
+### 🗄️ Databases & Cloud
 
-`Tableau` · `Power BI` · `Matplotlib` · `Seaborn` · `Plotly` · `Dash`
-`Jupyter` · `Google Data Studio`
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+</p>
 
-### **Tools**
+### 🛠️ Dev Tools
 
-`Git` · `GitHub/GitLab` · `Docker` · `Kubernetes`
-`MLflow` · `DVC` · `CI/CD`
-`Visual Studio` · `Android Studio`
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
 
 ---
 
-## 📫 Contact
+## 📂 Projets réalisés
 
-**Email:** [touidjine.zaki@outlook.fr](mailto:touidjine.zaki@outlook.fr)
-[![LinkedIn] *ajoute ton lien ici*]
+### 📊 Dashboarding & Data Analysis
+
+* Marketing analytics dashboards (Power BI & Tableau)
+* Data cleaning, aggregation & KPIs reporting
+* Customer behavior analysis and email CTR optimization
+  ![Dashboard GIF](https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif)
+
+### 🤖 Computer Vision / YOLO
+
+* Object detection with YOLO (video & image datasets)
+* Automated image/video processing with OpenCV
+* End-to-end pipeline from training to deployment
+  ![YOLO GIF](https://media.giphy.com/media/l0HlK9a8vZq6NSGZ2/giphy.gif)
 
 ---
 
-Si tu veux, je peux aussi :
-✅ ajouter des badges GitHub
-✅ créer une bannière visuelle pour le haut du README
-✅ rendre la page interactive (cards, highlights, emojis minimalistes)
-Souhaites-tu une version **avec badges + sections animées** ?
+<p align="center">
+<img src="https://visitcount.itsvg.in/api?id=ZakiTouidjine&icon=0&color=11" />
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+</p>
+
