@@ -112,39 +112,6 @@
 
 ---
 
-## 💼 Professional Experience
-
-### 🟢 Data Scientist Internship (16 months)
-
-**TARTERET PHILIPPE, Estissac, France** · Since May 2025
-
-* Computer Vision: developed a **YOLO model** for automatic plank detection and optimization of cutting choices
-* Data Science & Machine Learning: data analysis, preparation, and exploitation for intelligent classification and cost reduction
-* Model optimization: performance monitoring, continuous adjustments, improving accuracy and robustness
-* Embedded system: integration on **Raspberry Pi** of a real-time monitoring module with automatic alert
-
-### 🟢 Android Mobile Developer Internship (4 months)
-
-**Monstock, Reims, France** · April – August 2024
-
-* Maintenance and optimization of Android applications
-* User behavior analysis using **Firebase Analytics**
-* Code migration from **Java → Kotlin** following best practices
-* Unit and UI testing
-* Development of new features (**Android Jetpack**)
-* UI/UX improvements following **Material Design principles**
-
-### 🟢 Full Stack Web Developer Internship (3 months)
-
-**StartupTech, Paris, France** · May – July 2023
-
-* Built **RESTful APIs** with Express.js and MongoDB
-* Implemented authentication with **JWT**
-* Unit testing and performance optimization
-* Performance monitoring using logging tools
-
----
-
 ## 📂 Academic Projects
 
 ### 💻 Application Development
