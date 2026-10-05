@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <b>AI Engineer / Data Analyst (AI-focused)</b><br/>
+  <b>AI Engineer / Data Scientist (AI-focused)</b><br/>
   <i>AI apps · YOLO / Data Visualization</i>
 </p>
 
